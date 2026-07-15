@@ -41,7 +41,7 @@ O objetivo é documentar minha evolução na aprendizado da linguagem Java, regi
 -   [Modificadores de Acesso](#-modificadores-de-acesso)
 -   [Getters e Setters](#-getters-e-setters)
 -   [Design de Classes](#-design-de-classes)
--   [Herança](#-herança)
+-   [Herança](#heranca)
 -   [Superclasse e Subclasse](#-superclasse-e-subclasse)
 -   [Sobrescrita de Métodos](#-sobrescrita-de-métodos)
 -   [Sobrecarga de Métodos](#-sobrecarga-de-métodos)
@@ -416,7 +416,7 @@ Classes menores costumam ser:
 - mais fáceis de manter.
 
 ---
-
+<a href="#heranca"></a>
 # 👨‍👩‍👧 Herança
 
 Herança permite criar uma nova classe aproveitando características de outra.
