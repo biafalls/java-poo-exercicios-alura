@@ -416,7 +416,7 @@ Classes menores costumam ser:
 - mais fáceis de manter.
 
 ---
-<a href="#heranca"></a>
+<a id="heranca"></a>
 # 👨‍👩‍👧 Herança
 
 Herança permite criar uma nova classe aproveitando características de outra.
