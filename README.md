@@ -24,6 +24,51 @@ O objetivo é documentar minha evolução na aprendizado da linguagem Java, regi
 
 ---
 
+## 📂 Estrutura do repositório
+
+```text
+src/
+├── exercicios/
+│   ├── aula1/
+│   ├── aula2/
+│   ├── aula3/
+│   └── aula4/
+│
+└── desafio/
+    ├── Audio.java
+    ├── Musica.java
+    ├── Podcast.java
+    ├── Usuario.java
+    ├── MinhasPreferidas.java
+    └── MainDesafio.java
+```
+
+---
+
+## 🎵 Desafio - Aplicação de Áudios
+
+Projeto desenvolvido para praticar os conceitos de Programação Orientada a Objetos por meio de uma aplicação simples de gerenciamento de conteúdos de áudio.
+
+### Conceitos aplicados
+
+- Herança
+- Encapsulamento
+- Polimorfismo
+- Sobrescrita de métodos
+- Interfaces
+- Reutilização de código
+
+### Estrutura
+
+- **Audio** → Superclasse com atributos e comportamentos comuns.
+- **Musica** → Representa uma música.
+- **Podcast** → Representa um podcast.
+- **Usuario** → Simula a interação de um usuário com os áudios.
+- **MinhasPreferidas** → Recomenda conteúdos com base na avaliação.
+- **MainDesafio** → Classe responsável pelos testes da aplicação.
+
+---
+
 # 📚 Sumário
 
 -   [O que é Orientação a Objetos](#-o-que-é-orientação-a-objetos)
