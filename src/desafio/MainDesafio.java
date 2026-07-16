@@ -1,7 +1,4 @@
-import desafio.MinhasPreferidas;
-import desafio.Musica;
-import desafio.Podcast;
-import desafio.Usuario;
+package desafio;
 
 public class MainDesafio {
     public static void main(String[] args) {
